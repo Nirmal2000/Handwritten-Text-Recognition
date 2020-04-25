@@ -1,5 +1,5 @@
 # Handwritten-Text-Recognition
-Inspired by https://github.com/githubharald/SimpleHTR
+
 
 The model predicts handwritten texts to actual texts. The input to be provided is a picture of an image containing a word and output is the text.
 
@@ -15,4 +15,4 @@ Crop the words into different imaages and feed to the model.
 
 Output in /src/words.txt
 
-
+Credits: https://github.com/githubharald/SimpleHTR
